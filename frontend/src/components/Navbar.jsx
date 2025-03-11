@@ -38,7 +38,7 @@ const Navbar = () => {
         </NavLink>
 
         <NavLink 
-  to="https://prescripto-admin.vercel.app/" 
+  to="https://mydoctime-admin.onrender.com/" 
   target="_blank" 
   rel="noopener noreferrer" 
   className="border px-5 text-xs py-1.5 rounded-full"
